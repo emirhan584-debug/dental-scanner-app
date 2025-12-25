@@ -21,7 +21,6 @@ dependencies:
   permission_handler: ^11.1.0
   
   # ARCore plugin (community maintained)
-  arcore_flutter_plugin: ^0.1.0
 
   
   # File storage
