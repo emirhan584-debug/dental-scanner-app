@@ -20,9 +20,6 @@ dependencies:
   # Permissions handling
   permission_handler: ^11.1.0
   
-  # ARCore plugin (community maintained)
-
-  
   # File storage
   path_provider: ^2.1.1
 
